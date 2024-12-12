@@ -13,8 +13,8 @@ td {
 .pseudo_h2:first-child::after {
   content:"Certified!";
   margin-left:10px;
-  padding:3px;
+  padding: 4px;
   background-color:red;
-  color:white;
-  font-size:12px;
+  color:rgb(0, 0, 0);
+  font-size:20px;
 }
